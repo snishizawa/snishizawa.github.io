@@ -47,7 +47,7 @@
 		<li>Shinichi Nishizawa, Shinji Kimura, "Multithread implementation for Open Cell Timing Characterizer,"  IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, 2024 (accepted).</li>
 		<li>Shinichi Nishizawa, Toru Nakura, "libretto: An Open Cell Timing Characterizer for Open Source VLSI Design,"  IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E106-A, No. 3, pp.551-559, March 2023.</li>
 		<li>Shinichi Nishizawa, Shih-Ting Lin, Yih-Lang Li, Hidetoshi Onodera, "Supplemental PDK for ASAP7 using Synopsys Flow," IPSJ Transactions on System LSI Design Methodology (T-SLDM), Vol. 14, pp. 24-26, March 2021.</li>
-		<li>Shinichi Nishizawa, Hidetoshi Onodera, "Design Methodology for Variation Tolerant D-Flip-Flop using Regression Analysis," IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E-101, No, 12, pp.2222-2230, December 2018.</li>
+		<li>Shinichi Nishizawa, Hidetoshi Onodera, "Design Methodology for Variation Tolerant D-Flip-Flop using Regression Analysis," IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E-101, No, 12, pp.2222-2230, December 2018. <a href="https://pman0214.github.io/blog/ieice-figure-minipage.html">URL</a></li>
 		<li>Shinichi Nishizawa, Tohru Ishihara, Hidetoshi Onodera, "Layout Generator with Flexible Grid Assignment for Area Efficient Standard Cell," IPSJ Transactions on System LSI Design Methodology, Vol. 8, pp 131-135, August, 2015.</li>
 		<li>Shinichi Nishizawa, Tohru Ishihara and Hidetoshi Onodera, "Standard Cell Structure with Flexible P/N Well Boundaries for Near-Threshold Voltage Operation," IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences, Vol. E96-A, No 12, pp. 2499-2504, December, 2013</li>
 		<li>Shinichi Nishizawa and Hidetoshi Onodera, "A Ring Oscillator with Calibration Circuit for On-Chip Measurement of Static IR-drop" , IEEE Transactions on Semiconductor Manufacturing, Vol. 26, Issue 3, pp. 306-313, August, 2013</li>
@@ -108,16 +108,15 @@
 	</ol>
 	<h4>Domestic Conferences (21)</h4>
 	<ol>
-		<li>西澤真一, 木村晋二，"Double Diffusion Break FinFET プロセスにおける面積ペナルティを軽減するセル内トランジスタ再配置法"，デザインガイア，2024/11，大分</li>
-		<li>西澤真一, 木村晋二，"オープンソースキャラクタライザのシミュレーション並列化"，DAシンポジウム，2024/08，鳥羽</li>
-		<li>西澤真一、名倉徹，"オープンソース集積回路設計に向けたオープンソースキャラクタライザ"，DAシンポジウム，2022/08，鳥羽</li>
+		<li>西澤真一, 木村晋二，"オープンソースキャラクタライザのシミュレーション並列化"，DAシンポジウム2024，2024/08，鳥羽</li>
+		<li>西澤真一、名倉徹，"オープンソース集積回路設計に向けたオープンソースキャラクタライザ"，DAシンポジウム2022，2022/08，鳥羽</li>
 		<li>西澤真一、伊藤和人，"フリップフロップの記憶保持特性とIDDQテストを組み合わせたプロセスばらつき推定", VLSI設計技術研究会, 2020/03，沖縄(オンライン)</li>
 		<li>西澤真一, 伊藤和人, "セル内配線トラック数に応じた配線層の自動選択機能を備えたセルレイアウトジェネレータ", デザインガイア, 2018/12，広島</li>
-		<li>西澤真一, 今野拓真, 伊藤和人, "フリップフロップの記憶保持特性を利用したトランジスタばらつきの推定", DAシンポジウム, 2017/08，石川</li>
-		<li>西澤真一, 石原 亨, 小野寺秀俊, "電源電圧に応じてトランジスタサイズを最適化可能なセルライブラリの生成システム,"   DAシンポジウム, pp. 97-102, 2014/08, 下呂</li>
-		<li>西澤真一, 石原 亨, 小野寺秀俊, "低電圧動作に向けたXOR論理ゲートの構成法の検討, " DAシンポジウム, pp.9-14, 2013/08, 下呂</li>
-		<li>西澤真一, 石原亨, 小野寺秀俊, "低電圧動作に向けたPN比可変スタンダードセルライブラリの構成法とその評価", DAシンポジウム, pp.175-180, 2012/08, 下呂</li>
-		<li>西澤真一, 小林和淑, 小野寺秀俊, "パッケージとの接続抵抗を考慮したチップ内電源ネットワークの構成手法", DAシンポジウム, pp. 45-50, 2011/08, 下呂</li>
+		<li>西澤真一, 今野拓真, 伊藤和人, "フリップフロップの記憶保持特性を利用したトランジスタばらつきの推定", DAシンポジウム2017, 2017/08，石川</li>
+		<li>西澤真一, 石原 亨, 小野寺秀俊, "電源電圧に応じてトランジスタサイズを最適化可能なセルライブラリの生成システム,"   DAシンポジウム2014, pp. 97-102, 2014/08, 下呂</li>
+		<li>西澤真一, 石原 亨, 小野寺秀俊, "低電圧動作に向けたXOR論理ゲートの構成法の検討, " DAシンポジウム2013, pp.9-14, 2013/08, 下呂</li>
+		<li>西澤真一, 石原亨, 小野寺秀俊, "低電圧動作に向けたPN比可変スタンダードセルライブラリの構成法とその評価", DAシンポジウム2012, pp.175-180, 2012/08, 下呂</li>
+		<li>西澤真一, 小林和淑, 小野寺秀俊, "パッケージとの接続抵抗を考慮したチップ内電源ネットワークの構成手法", DAシンポジウム2011, pp. 45-50, 2011/08, 下呂</li>
 
 	</ol>
 	<ol>
@@ -128,11 +127,11 @@
 		<li>中鉢洸太, 西澤真一, 伊藤和人, "チャージポンプによる動的基板バイアス制御を用いた低電圧動作SRAMの検討", デザインガイア, 2018/12，広島</li>
 		<li>深澤研人, 西澤真一, 伊藤和人, "トランジスタサイズを変えた記憶保持特性の異なるフリップフロップ群を利用したばらつき評価", デザインガイア, 2018/12，広島</li>
 		<li>保坂巧，西澤真一，岸田亮，小林和淑，松本高士，坂本浩則，籔内美智太郎，熊代成孝，"65 nm FD-SOI における NBTI の逆方向基板バイアス依存性の評価", 電子情報通信学会 総合大会. 2018/03</li>
-		<li>中鉢洸太, 西澤真一, 伊藤和人, "薄膜FDSOIトランジスタを用いた低電圧動作逆方向バイアス電圧生成回路", DAシンポジウム, 2017/08，石川</li>
-		<li>中馬良兵、西澤真一、伊藤和人，"極低電圧動作を目指したD-Nwellレス細粒度基板バイアスSRAMビットセルの検討", DAシンポジウム, pp.20-25, 2016/09, 石川</li>
-		<li>鎌苅竜也，西澤真一, 石原 亨, 小野寺秀俊, "製造ばらつきを考慮した極低電圧動作向けフリップフロップの設計手法,"  DAシンポジウム, pp. 91-96, 2014/08, 下呂</li>
+		<li>中鉢洸太, 西澤真一, 伊藤和人, "薄膜FDSOIトランジスタを用いた低電圧動作逆方向バイアス電圧生成回路", DAシンポジウム2017, 2017/08，石川</li>
+		<li>中馬良兵、西澤真一、伊藤和人，"極低電圧動作を目指したD-Nwellレス細粒度基板バイアスSRAMビットセルの検討", DAシンポジウム2016, pp.20-25, 2016/09, 石川</li>
+		<li>鎌苅竜也，西澤真一, 石原 亨, 小野寺秀俊, "製造ばらつきを考慮した極低電圧動作向けフリップフロップの設計手法,"  DAシンポジウム2014, pp. 91-96, 2014/08, 下呂</li>
 		<li>竹下俊宏, 西澤真一, Islam A.K.M. Mahfuzul, 石原亨, 小野寺秀俊, "動作状況に応じた電源電圧と基板バイアスの同時調節によるLSIのエネルギー効率最大化", 電子情報通信学会 2014年総合大会, 2014/03, 新潟</li>
-		<li>藤本秀一、Islam A.K.M. Mahfuzul、西澤真一、小野寺秀俊, "チップ内ばらつきの成分解析手法", DAシンポジウム, pp. 215-220, 2010/09 , 下呂</li>
+		<li>藤本秀一、Islam A.K.M. Mahfuzul、西澤真一、小野寺秀俊, "チップ内ばらつきの成分解析手法", DAシンポジウム2010, pp. 215-220, 2010/09 , 下呂</li>
 
 	</ol>
 	<h4>Magazines (1)</h4>
@@ -141,7 +140,7 @@
 	</ol>
 	<h4>Invited Talks (2)</h4>
 	<ol>
-		<li>西澤真一、名倉徹，"ハードウェア設計のオープンソース化に向けたライブラリキャラクタライザの開発，" IEICE総合大会，2023/03, さいたま</li>
+		<li>西澤真一、名倉徹，"ハードウェア設計のオープンソース化に向けたライブラリキャラクタライザの開発，" IEICE総合大会2023，2023/03, さいたま</li>
 		<li>西澤真一, "集積回路設計を支える設計・製造協調最適設計", IEICE東北支部講演会, 2022/12, 弘前</li>
 	</ol>
 	<h4>Others (10)</h4>　
@@ -163,10 +162,9 @@
 	    <li>[学生の受賞] Best Paper Award, Zekun Wang, Shinichi Nishizawa, Shinji Kimura, International Symposium on System-on-Chip Conference (SOCC), September 2023. </li>
 	</ol>
 	<ol>
-		<li>デザインガイア・ポスター賞 (2024/11/13)：西澤真一, 木村晋二，"Double Diffusion Break FinFET プロセスにおける面積ペナルティを軽減するセル内トランジスタ再配置法"，デザインガイア 2024</li>
-		<li>SLDM研究会優秀発表学生賞 (2015/8/26)：西澤真一，石原亨，小野寺秀俊，"電源電圧に応じてトランジスタサイズを最適化可能なセルライブラリの生成システム" ， DAシンポジウム 2014</li>
-		<li>情報処理学会 コンピュータサイエンス領域奨励賞 (2013/8/21)：西澤真一，近藤正大，石原亨，小野寺秀俊，"低電圧動作に向けたPN比可変スタンダードセルライブラリの構成法とその評価 "，DAシンポジウム 2012</li>
-		<li>SLDM研究会優秀発表学生賞 (2013/8/21)：西澤真一，近藤正大，石原亨，小野寺秀俊，"低電圧動作に向けたPN比可変スタンダードセルライブラリの構成法とその評価"，DAシンポジウム 2012</li>
+		<li>情報処理学会 SLDM研究会優秀発表学生賞 (2015/8/26)：西澤真一，石原亨，小野寺秀俊（京大），"電源電圧に応じてトランジスタサイズを最適化可能なセルライブラリの生成システム" ， DAシンポジウム2014.</li>
+		<li>情報処理学会 コンピュータサイエンス領域奨励賞 (2013/8/21)：西澤真一，近藤正大，石原亨（京大），小野寺秀俊（京大／JST），"低電圧動作に向けたPN比可変スタンダードセルライブラリの構成法とその評価 "，DAシンポジウム2012.</li>
+		<li>情報処理学会 SLDM研究会優秀発表学生賞 (2013/8/21)：西澤真一，近藤正大，石原亨（京大），小野寺秀俊（京大／JST），"低電圧動作に向けたPN比可変スタンダードセルライブラリの構成法とその評価"，DAシンポジウム2012.</li>
 		<li>IEEE関西支部学生研究奨励賞 (2013/2/12)：Shinichi Nishizawa and Hidetoshi Onodera, "Ring Oscillator with Calibration Circuit for Accurate On-Chip IR-drop Measurement", ICMTS2012.</li>
 	</ol>
 </div>
